@@ -1,4 +1,2 @@
 
-# 项目 图书管理系统
-# 组长 彭文晓
-# 组员 刘佳慧 吴桐
+BookInfoManageSystem
